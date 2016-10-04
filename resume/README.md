@@ -1,4 +1,4 @@
-![alt text](https://www.roberthalf.com/sites/default/files/styles/blog_image_no_style/public/Media_Root/web-developer-cloud-tags-520.jpg?itok=I3cbIAtj "New Media Design & Dev-Lode")
+![alt text](http://f.tqn.com/y/graphicssoft/1/S/a/L/6/IconFinal.jpg "New Media Design & Dev-Lode")
 
 #biografie
 ***
@@ -9,7 +9,7 @@ Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische 
 | 2007-2011  | moderne wetenschappen (middelbaar)              |
 | 2011-2013  | Informaticabeheer (middelbaar)                  | 
 | 2013-2014  | Elektromechanica (bachelor)                     |
-| 2014-2018  | Grafische en digitale mediatechnieken (bachelor)|
+| 2014-2017  | Grafische en digitale mediatechnieken (bachelor)|
 
 #portfolio
 ***
@@ -30,9 +30,9 @@ Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische 
 | netwerkassisten TAZ(theater aan zee) | Kerksken     | 2013-2014      |
 
 
-#kennis webtechnologie�n
+#kennis webtechnologi&eumln
 ***
->![Kennisniveau](http://icto.pxl.be/sites/default/files/imagecache/1_image/wysiwyg_imageupload/3/bloom1.jpg "Kennisniveau's")
+
 
 | Webtechnologie                |                       Kennis |
 | :---------------------------- | :--------------------------: |
@@ -44,7 +44,7 @@ Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische 
 
 #softwarekennis
 ***
->![Kennisniveau](http://icto.pxl.be/sites/default/files/imagecache/1_image/wysiwyg_imageupload/3/bloom1.jpg "Kennisniveau's")
+
 
 | Software                     |                       Kennis |
 | :--------------------------- | :--------------------------: |
@@ -64,7 +64,7 @@ Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische 
 |                  |                                 |
 | :--------------- | ------------------------------: |
 | E-mail school:   | lodemuyl@student.arteveldehs.be |
-| E-mail priv�:    | lode.muylaert@hotmail.com       |
-| GSM:		   | 0496060185                      |
+| E-mail privé:    | lode.muylaert@hotmail.com       |
+| GSM:		       | 0496060185                      |
 
 
