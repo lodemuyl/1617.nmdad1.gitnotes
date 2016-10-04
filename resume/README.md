@@ -1,4 +1,4 @@
-![alt text](http://f.tqn.com/y/graphicssoft/1/S/a/L/6/IconFinal.jpg "New Media Design & Dev-Lode")
+![alt text](https://appirio.com/wp-content/uploads/2015/03/developer.png "New Media Design & Dev-Lode")
 
 #biografie
 ***
@@ -30,7 +30,7 @@ Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische 
 | netwerkassisten TAZ(theater aan zee) | Kerksken     | 2013-2014      |
 
 
-#kennis webtechnologi&eumln
+#kennis webtechnologiën
 ***
 
 
