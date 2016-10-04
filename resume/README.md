@@ -2,7 +2,7 @@
 
 #biografie
 ***
-Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische en Digitale mediatechnieken met als afstudeerrichten ProDevelopment, hierbij mijn bibliografie.
+Ik ben Muylaert Lode 3e jaarsstudent aan de arteveldehogeschool in de Grafische en Digitale mediatechnieken met als afstudeerrichten ProDevelopment, hierbij mijn bibliografie.
 
 | Schooljaar | Studies                                         |
 | :--------  |:------------------------------------------------|
